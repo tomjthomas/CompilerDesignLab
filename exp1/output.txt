@@ -1,0 +1,7 @@
+ (keyword, def)     (identifier, func)    (operator, :)  
+ (keyword, if)      (identifier, a)    (operator, <)    (identifier, b)    (operator, :)  
+ (keyword, return)   (identifier, a)  
+ (keyword, else)    (operator, :)  
+ (keyword, return)   (identifier, b)  
+
+ (keyword, print)   (identifier, func)    (identifier, a)    (identifier, b)  

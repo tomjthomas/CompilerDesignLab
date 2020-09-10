@@ -1,0 +1,7 @@
+def func:
+    if(a<b):
+        return a
+    else:
+        return b
+
+print(func(a,b))
